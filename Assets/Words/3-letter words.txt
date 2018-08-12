@@ -14,7 +14,6 @@ sip
 dry
 add
 bin
-sex
 can
 sum
 hit

@@ -22,7 +22,6 @@ ideal
 point
 liver
 smell
-Koran
 laser
 shake
 swell
@@ -68,7 +67,6 @@ video
 frown
 steak
 rough
-Bible
 glare
 brick
 virus
